@@ -1,2 +1,0 @@
-masterpiece, chinese library, traditional pavilion, red pillars, lake reflection, sunset, ultra-detailed, 8k
-<lora:ChineseArchitecture_v1:0.8>
